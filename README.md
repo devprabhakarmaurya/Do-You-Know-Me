@@ -19,7 +19,7 @@ To start the game, run the following command in your terminal: node Quiz_Game.js
 
 Answer each question by typing your response and pressing Enter. After completing all the questions, your final score will be displayed.
 
-###Gameplay
+##Gameplay
 The game presents a series of questions about the creator. For each question:
 
 Type your answer and press Enter.
@@ -27,6 +27,6 @@ If your answer is correct, you earn a point and see a success message.
 If your answer is incorrect, you lose a point and see an error message.
 After answering all the questions, your total score is displayed.
 
-###High Scores
+##High Scores
 At the end of the game, the high scores are displayed. If you believe your score should be added to the list, reach out to the creator.
 
